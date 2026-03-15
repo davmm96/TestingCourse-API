@@ -79,6 +79,46 @@
       "priceCents": 215,
       "stock": 22,
       "imageUrl": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2"
+    },
+        {
+      "id": "p11",
+      "name": "Nata para Cocinar (200ml)",
+      "category": "Dairy",
+      "priceCents": 110,
+      "stock": 30,
+      "imageUrl": "https://images.unsplash.com/photo-1553909489-cd47e0907980"
+    },
+    {
+      "id": "p12",
+      "name": "Bebida de Soja (1L)",
+      "category": "Dairy",
+      "priceCents": 185,
+      "stock": 18,
+      "imageUrl": "https://images.unsplash.com/photo-1635437536607-b8572f443763"
+    },
+    {
+      "id": "p13",
+      "name": "Kefir Azucarado (500ml)",
+      "category": "Dairy",
+      "priceCents": 195,
+      "stock": 10,
+      "imageUrl": "https://images.unsplash.com/photo-1621262846171-8728d39c011e"
+    },
+    {
+      "id": "p14",
+      "name": "Queso Fresco de Oveja (200g)",
+      "category": "Dairy",
+      "priceCents": 320,
+      "stock": 6,
+      "imageUrl": "https://images.unsplash.com/photo-1624806994096-7f20119d7cc3"
+    },
+    {
+      "id": "p15",
+      "name": "Postre de vainilla (4x125g)",
+      "category": "Dairy",
+      "priceCents": 215,
+      "stock": 22,
+      "imageUrl": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2"
     }
   ]
 }
