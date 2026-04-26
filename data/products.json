@@ -1,6 +1,3 @@
-I've updated the JSON to categorize the products more accurately. While they are all often found in the "Dairy" aisle, I have broken them down into more specific categories like Dairy, Eggs, Cheese, Plant-based, and Desserts for better organization.
-
-JSON
 {
   "products": [
     {
