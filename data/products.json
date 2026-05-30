@@ -115,11 +115,91 @@
     },
     {
       "id": "p15",
-      "name": "Postre de vainilla (4x125g)",
+      "name": "Postre de Vainilla (4x125g)",
       "category": "Desserts",
       "priceCents": 215,
       "stock": 22,
       "imageUrl": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2"
+    },
+    {
+      "id": "p16",
+      "name": "Leche Semidesnatada (1L)",
+      "category": "Milk",
+      "priceCents": 105,
+      "stock": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1563636619-e9143da7973b"
+    },
+    {
+      "id": "p17",
+      "name": "Huevos Ecológicos (6u)",
+      "category": "Eggs",
+      "priceCents": 215,
+      "stock": 14,
+      "imageUrl": "https://images.unsplash.com/photo-1587486913049-53fc88980cfc"
+    },
+    {
+      "id": "p18",
+      "name": "Yogur de Fresa (4x125g)",
+      "category": "Yogurt",
+      "priceCents": 180,
+      "stock": 20,
+      "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777"
+    },
+    {
+      "id": "p19",
+      "name": "Queso Gouda (200g)",
+      "category": "Cheese",
+      "priceCents": 410,
+      "stock": 9,
+      "imageUrl": "https://images.unsplash.com/photo-1486297678162-ad2a19b05844"
+    },
+    {
+      "id": "p20",
+      "name": "Aceite de Oliva Virgen (500ml)",
+      "category": "Fats & Oils",
+      "priceCents": 690,
+      "stock": 35,
+      "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5"
+    },
+    {
+      "id": "p21",
+      "name": "Nata Agria (200ml)",
+      "category": "Cream",
+      "priceCents": 130,
+      "stock": 25,
+      "imageUrl": "https://images.unsplash.com/photo-1553909489-cd47e0907980"
+    },
+    {
+      "id": "p22",
+      "name": "Bebida de Almendras (1L)",
+      "category": "Plant-based",
+      "priceCents": 210,
+      "stock": 12,
+      "imageUrl": "https://images.unsplash.com/photo-1635437536607-b8572f443763"
+    },
+    {
+      "id": "p23",
+      "name": "Postre de Limón (4x125g)",
+      "category": "Desserts",
+      "priceCents": 195,
+      "stock": 18,
+      "imageUrl": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2"
+    },
+    {
+      "id": "p24",
+      "name": "Leche Sin Lactosa (1L)",
+      "category": "Milk",
+      "priceCents": 145,
+      "stock": 30,
+      "imageUrl": "https://images.unsplash.com/photo-1563636619-e9143da7973b"
+    },
+    {
+      "id": "p25",
+      "name": "Mantequilla sin Sal (250g)",
+      "category": "Fats & Oils",
+      "priceCents": 265,
+      "stock": 15,
+      "imageUrl": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d"
     }
   ]
 }
